@@ -16,6 +16,17 @@ Passionate about coding — still at the early stage, but always growing step by
     <img src="https://wakatime.com/share/@5775539e-74e8-4244-b8c3-666330d745bb/6726ed01-3ad0-4d62-802a-65123a68636b.png" alt="WakaTime languages" width="45%">
   </a>
 </p>
-| time ⏱️ | languages 📊 |
-|---|---|
-| <img src="https://wakatime.com/share/@5775539e-74e8-4244-b8c3-666330d745bb/e3980dbb-0195-49bc-a184-c4ab9d3bed0a.png" alt="time" width="100%"> | <img src="https://wakatime.com/share/@5775539e-74e8-4244-b8c3-666330d745bb/6726ed01-3ad0-4d62-802a-65123a68636b.png" alt="languages" width="100%"> |
+<table>
+  <tr>
+    <th align="center">⏱️ time</th>
+    <th align="center">📊 languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://wakatime.com/share/@5775539e-74e8-4244-b8c3-666330d745bb/e3980dbb-0195-49bc-a184-c4ab9d3bed0a.png" alt="WakaTime stats" width="95%">
+    </td>
+    <td align="center">
+      <img src="https://wakatime.com/share/@5775539e-74e8-4244-b8c3-666330d745bb/6726ed01-3ad0-4d62-802a-65123a68636b.png" alt="WakaTime languages" width="95%">
+    </td>
+  </tr>
+</table>
