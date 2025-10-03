@@ -1,7 +1,6 @@
-## Hi there 👋
 Siyun Zhong 
 
-### About Me
+## About Me
 
 Passionate about coding — still at the early stage, but always growing step by step.
 
