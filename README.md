@@ -7,11 +7,16 @@ Passionate about coding — still at the early stage, but always growing step by
 - Working at Yulab on website development and contributing to the lab’s research projects.
 - Bachelor’s degree from Zhongkai University of Agriculture and Engineering.
 
-<p align="center">
-  <a href="https://wakatime.com/">
-    <img src="https://wakatime.com/share/@5775539e-74e8-4244-b8c3-666330d745bb/e3980dbb-0195-49bc-a184-c4ab9d3bed0a.png" alt="WakaTime stats" width="45%">
-  </a>
-  <a href="https://wakatime.com/">
-    <img src="https://wakatime.com/share/@5775539e-74e8-4244-b8c3-666330d745bb/6726ed01-3ad0-4d62-802a-65123a68636b.png" alt="WakaTime languages" width="45%">
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>⏳ Coding Activity</h3>
+      <img src="https://wakatime.com/share/@.../e3980dbb-0195-49bc-a184-c4ab9d3bed0a.png" width="95%">
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Languages</h3>
+      <img src="https://wakatime.com/share/@.../6726ed01-3ad0-4d62-802a-65123a68636b.png" width="95%">
+    </td>
+  </tr>
+</table>
